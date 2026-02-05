@@ -1,51 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Coders of Delhi — Pure Python Data Analysis</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #0f172a;
-            color: #e5e7eb;
-        }
-        h1, h2, h3 {
-            color: #38bdf8;
-        }
-        code, pre {
-            background-color: #020617;
-            padding: 10px;
-            border-radius: 6px;
-            color: #a5f3fc;
-            overflow-x: auto;
-        }
-        pre {
-            border-left: 4px solid #38bdf8;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .box {
-            background-color: #020617;
-            padding: 15px;
-            border-radius: 8px;
-            margin: 20px 0;
-        }
-        .highlight {
-            color: #22c55e;
-            font-weight: bold;
-        }
-        footer {
-            margin-top: 40px;
-            font-size: 0.9em;
-            color: #94a3b8;
-        }
-    </style>
-</head>
-<body>
-
 <h1>🚀 Coders of Delhi — Data Analysis with Pure Python</h1>
 <p><strong>A social-network data analysis project built entirely using core Python in Jupyter Notebook</strong></p>
 
@@ -187,9 +139,14 @@ Each page is scored using common liked pages.
 
 <footer>
     <p>
-        <strong>Author:</strong> Aryan <br>
-        Computer Science Engineering — VIT Vellore <br><br>
+        <strong>Author:</strong> Aryan Srivastava <br>
+        Computer Science Engineering Student  — VIT Vellore <br>
         Learning by building. Python first. Logic always.
+        <a href="https://www.linkedin.com/in/aryan-codes"
+             target="_blank"
+             style="color:#38bdf8; text-decoration:none;">
+            LinkedIn: aryan-codes
+        </a>
     </p>
 </footer>
 
